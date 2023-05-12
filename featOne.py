@@ -5,7 +5,7 @@ for y in range(11):
     print(y)
     
 
-for z in range(12):
+for z in range(8):
     print(z)
-for x in range(11):
+for x in range(9):
     print(x)
